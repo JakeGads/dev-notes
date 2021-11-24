@@ -6,6 +6,6 @@ Work will keep it towards things I have to learn from my job this includes
 
 - Sequelize
 
-non-work is what I am learning for myslef
+non-work is what I am learning for myself
 
 - AWS Associate Dev Cert
